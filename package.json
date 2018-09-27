@@ -42,7 +42,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "test": "npm run lint:css && npm run lint:js && npm run check-pretty",
+    "test": "npm run lint:css && npm run lint:js",
     "setup": "node ./bin/setup.js",
     "dev": "gatsby develop",
     "lint:js": "eslint --ext .js,.jsx .",
