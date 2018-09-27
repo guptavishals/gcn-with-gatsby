@@ -48,7 +48,6 @@ const Date = styled.h3`
   margin: 0 1rem 1.5rem 1rem;
   color: gray;
 `
-
 const Excerpt = styled.p`
   margin: 0 1rem 1rem 1rem;
   line-height: 1.6;
